@@ -1,6 +1,6 @@
 # Hi 👋, I'm NANDIKI KARUNAKAR
 
-### AI, ML & Cloud Enthusiast
+**`AI, ML & Cloud Enthusiast`**
 
 - 🔭 I'm currently working on **AI/ML + Cloud + Software Development**
 
